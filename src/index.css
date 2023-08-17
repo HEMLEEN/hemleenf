@@ -1,0 +1,5 @@
+.title {
+  font-size: large;
+  animation-name: moveRight;
+  animation-duration: 0.7s;
+}
